@@ -44,6 +44,9 @@ Distance = (Time / 2) x 29.1
 
 Where 29.1 is the speed of ultrasound in centimeter/microseconds.
 
+### Schema
+
+![](https://github.com/damlacim/ultrasonic-sensor-alarm-system/blob/main/schema.png)
 
 
 
